@@ -1,1 +1,1 @@
-Capstone Project final de Master.
+Capstone Project final del Master.
