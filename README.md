@@ -1,4 +1,4 @@
-## Capstone Project final del Master
+## Capstone Project
 
 - Analysis and manipulation
 - Segmentation
