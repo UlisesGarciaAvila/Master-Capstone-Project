@@ -17,3 +17,4 @@ The projects in this portfolio were developed using various technologies and too
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn...)
 - Power BI (Desktop)
 - Jupyter Notebook
+- Power Point
